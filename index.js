@@ -7,11 +7,15 @@ app.use(express.json())
 
 
 app.get('/', (req, res) => {
-    res.send('how are you')
+    res.send('fine and you')
 })
 
-app.get('/productos/', (req, res) => {
-    const {id} = req.query
+app.post('/', (req, res) => {
+    res.send(req.body)
+})
+
+app.get('/productos/:id', (req, res) => {
+    const id = req.params.id
     res.send(id)
 })
 

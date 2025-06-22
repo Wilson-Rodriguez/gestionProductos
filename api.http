@@ -1,0 +1,13 @@
+get http://localhost:3000
+
+###
+get http://localhost:3000/productos/56
+
+###
+
+post http://localhost:3000
+Content-Type: application/json
+
+{
+    "message": "hello world"
+}
