@@ -1,11 +1,19 @@
 ### Retorna un listado con todos los productos
 get http://localhost:3000/productos/
 
-###
+### Retorna la información del producto con el ID especificado
+get http://localhost:3000/productos/5
 
-post http://localhost:3000
+
+### Permite agregar un nuevo producto
+post http://localhost:3000/productos/
 Content-Type: application/json
 
 {
-    "message": "hello world"
+  "id": 11,
+  "nombre": "Macetera Moderna",
+  "precio": 120.95,
+  "descripcion": "Macetera de cerámica con diseño contemporáneo, ideal para interiores y exteriores.",
+  "disponible": true,
+  "fecha_ingreso": "2025-06-06T11:20:15Z"
 }
