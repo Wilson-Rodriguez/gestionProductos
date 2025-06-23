@@ -1,7 +1,5 @@
-get http://localhost:3000
-
-###
-get http://localhost:3000/productos/56
+### Retorna un listado con todos los productos
+get http://localhost:3000/productos/
 
 ###
 

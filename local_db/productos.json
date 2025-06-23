@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Deportiva",
+    "precio": 637.98,
+    "descripcion": "Camiseta ligera y transpirable ideal para actividades deportivas.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-05T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Zapatillas deportivas",
+    "precio": 979.75,
+    "descripcion": "Zapatillas para correr con tecnología de amortiguación.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-06T10:30:45Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Reloj Inteligente",
+    "precio": 1469.73,
+    "descripcion": "Reloj inteligente con múltiples funcionalidades, como monitoreo de actividad y notificaciones.",
+    "disponible": false,
+    "fecha_ingreso": "2025-07-15T14:45:30Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares Bluetooth",
+    "precio": 1652.32,
+    "descripcion": "Auriculares inalámbricos con sonido de alta calidad y cancelación de ruido.",
+    "disponible": true,
+    "fecha_ingreso": "2025-08-20T22:15:05Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Lámpara LED",
+    "precio": 399.99,
+    "descripcion": "Lámpara LED de escritorio con ajuste de intensidad.",
+    "disponible": true,
+    "fecha_ingreso": "2025-09-01T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Mochila Deportiva",
+    "precio": 800.59,
+    "descripcion": "Mochila resistente con varios compartimientos para equipamiento deportivo.",
+    "disponible": true,
+    "fecha_ingreso": "2025-11-10T05:25:10Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Smartphone 5G",
+    "precio": 19563.99,
+    "descripcion": "Smartphone de última generación con soporte para redes 5G y cámara de 108 MP.",
+    "disponible": false,
+    "fecha_ingreso": "2025-12-25T18:59:59Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Tableta Android",
+    "precio": 7500.00,
+    "descripcion": "Tableta Android de 10 pulgadas con pantalla Full HD y 4GB de RAM.",
+    "disponible": true,
+    "fecha_ingreso": "2026-01-01T01:01:01Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Cámara Digital",
+    "precio": 11250.99,
+    "descripcion": "Cámara digital con lentes intercambiables y grabación en 4K.",
+    "disponible": true,
+    "fecha_ingreso": "2026-02-14T12:00:00Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Teclado Mecánico",
+    "precio": 1900.85,
+    "descripcion": "Teclado mecánico con retroiluminación RGB y teclas programables.",
+    "disponible": true,
+    "fecha_ingreso": "2026-03-31T23:59:59Z"
+  }
+]
